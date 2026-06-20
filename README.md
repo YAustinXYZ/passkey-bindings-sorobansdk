@@ -95,6 +95,7 @@ passkey-bindings-sorobansdk/
 │   ├── app/
 │   └── components/
 ├── app.config.ts                     # Expo configuration with plugins
+├── TESTING.md                        # Manual device validation guide
 ├── package.json                      # Dependencies (all pinned)
 └── README.md                         # This file
 ```
@@ -120,5 +121,5 @@ For detailed implementation guidance, refer to the ADR documents in the `docs/` 
 
 ## License
 
-See [LICENSE](./LICENSE) file for details.
+See [LICENSE](./LICENSE) file for details..
 
